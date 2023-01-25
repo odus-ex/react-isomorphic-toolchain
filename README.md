@@ -1,6 +1,6 @@
 # react-isomorphic-toolchain
 
-A toolchain for generating isomorphic React bolierplate code.
+A toolchain for generating bolierplate code for isomorphic React SPAs.
 
 ## Isomorphisim
 
