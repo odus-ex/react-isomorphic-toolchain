@@ -1,0 +1,26 @@
+{
+  "name": "react-seo-toolchain",
+  "version": "0.0.1",
+  "description": "A toolchain for generating SEO optimized react app with react-snap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odus-ex/react-SEO-toolchain.git"
+  },
+  "author": "Aditya Tripathi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odus-ex/react-SEO-toolchain/issues"
+  },
+  "homepage": "https://github.com/odus-ex/react-SEO-toolchain#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

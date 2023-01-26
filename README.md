@@ -1,10 +1,8 @@
 # react-isomorphic-toolchain
 
-A toolchain for generating bolierplate code for isomorphic React SPAs.
+A toolchain for generating bolierplate code for SEO optimized React SPAs.
 
-## Isomorphisim
-
-Isomorphism is JS/TS code ability to run on client-side as well as server-side, meaning server is as capable as client in rendering the HTML and executing JS with it. It is a design pattern which enforces using JS/TS code which is not heavily dependent on the environemnt its running in.
+## SEO Optimizations
 
 ## Use-case
 
